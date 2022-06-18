@@ -1332,3 +1332,100 @@ http://list.starbr.nz:80/live/claudia123/123claudia/2495.ts
 
 http://list.starbr.nz:80/live/claudia123/123claudia/1206.ts
 
+Guutoxa/LISTA FILMES.m3u
+Created 4 years ago • Report abuse
+Code
+Revisions
+1
+Stars
+1
+Forks
+2
+LISTA FILMES.m3u
+LISTA FILMES.m3u
+This file has been truncated, but you can view the full file.
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 17/03 
+http://0.0.0.0
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qAEDvwY.jpg" group-title="ATUALIZAÇÕES DO DIA",A Forma da Água - DUB
+https://www.googleapis.com/drive/v3/files/1JMsCSCuAJMNxcGzWNcdiFJjIciR_eGq5?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" group-title="ATUALIZAÇÕES DO DIA",Pantera Negra
+http://link4.ntcdn.us/lanadelrey/movies/panteranegra-dub-720p.mp4?cdn_hash=6a8b11e6d25aebf95747c075edcd8717&cdn_creation_time=1521319835&cdn_ttl=14440
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//t3M7PW2skoitpWVu7i4GiepGkK1.jpg" group-title="ATUALIZAÇÕES DO DIA",Passado Roubado
+https://www.googleapis.com/drive/v3/files/1dPHmmyoY9wAPAobeY2q6lAVKkmzwyHdY?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXaUxdKD2t1B74cutWA5rjBLgD.jpg" group-title="ATUALIZAÇÕES DO DIA",Paddington 2
+https://www.googleapis.com/drive/v3/files/1ulKjnQQ5CaWrjCqqZKUtpTa0UGlG0-r0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sUDg8k9T677DEGNDpsyANZTYAji.jpg" group-title="ATUALIZAÇÕES DO DIA",Pequena Grande Vida
+https://www.googleapis.com/drive/v3/files/1uU3HvcLghMD8rEupmnAIf1zsxWeygjFk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpVQUSpPjMtl5IVDWHkPCatjdzL.jpg" group-title="ATUALIZAÇÕES DO DIA",Maze Runner – A Cura Mortal
+https://www.googleapis.com/drive/v3/files/1rowCQft1zGhhxvd1fRxbxn7EfrKAJNsu?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//z8OKWw6DAZAOyz8F421euawr3Hs.jpg" group-title="ATUALIZAÇÕES DO DIA",Honra ao Mérito
+https://www.googleapis.com/drive/v3/files/1IB4RPjT7lE2KwRyVyTILHJtS3dj7hDdD?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1SsrqmxRiO8cJCJ7POAjI69OsQJ.jpg" group-title="ATUALIZAÇÕES DO DIA",Perfeita é a Mãe 2
+https://www.googleapis.com/drive/v3/files/1zwCcS3hKVsiko6j6ADrUaJqQUTYv-Ae_?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16iFT1MLae2zoDTRTeOqx0w5OUv.jpg" group-title="ATUALIZAÇÕES DO DIA",O Passageiro
+https://www.googleapis.com/drive/v3/files/1OYqGARpEo7__gui_zFXAPuWXWawjaN-d?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mOfOx3gjADdvi2EORAivz7j8ais.jpg" group-title="ATUALIZAÇÕES DO DIA",Dois Caras Legais
+https://www.googleapis.com/drive/v3/files/1pxl5iVY0wPo1VSkAv01AUTm5nkrVi8G6?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxKe6ipWT4Ib0icn0IoS4X1gnr4.jpg" group-title="ATUALIZAÇÕES DO DIA",Cinquenta Tons de Liberdade
+https://www.googleapis.com/drive/v3/files/1Srj2OFr8mNXmmnMudDRFRwenrMi-rfOH?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//peKFgffHTs6gzDgAWOjIfxziLbQ.jpg" group-title="ATUALIZAÇÕES DO DIA",Lego DC Comics Super Heroes: The Flash
+https://www.googleapis.com/drive/v3/files/19I3DUXm7nzAdklRZ6uiz_I4r01t1hzhL?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wLnkdSEA2g6552QrjfdAB2eVC7.jpg" group-title="ATUALIZAÇÕES DO DIA",Benji
+https://www.googleapis.com/drive/v3/files/1ceWGbH6dNnBrBL9ru9O427wwMuubONq7?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="ATUALIZAÇÕES DO DIA",Tomb Raider: A Origem
+https://www.googleapis.com/drive/v3/files/1t7uwzPXZhmVke-TFrF69BX3bnD9sSToj?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZld35X8B1fBnSvqNai5jiscZ9d.jpg" group-title="ATUALIZAÇÕES DO DIA",O Poder e o Impossível
+https://www.googleapis.com/drive/v3/files/1daNxmlBlw3WPLnVDtNgHWhGeCmA68vKA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://ottvsimg.singularcdn.net.br/cov/acg.057085/0057085_200.jpg" group-title="ATUALIZAÇÕES DO DIA",Lobisomens do Terceiro Reich
+https://www.googleapis.com/drive/v3/files/1ZfT8GMphFDj9bS1mm4I88pTGSwrrOtZr?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PMTTs03T4v4jSPKUgexMiZ8qL9.jpg" group-title="ATUALIZAÇÕES DO DIA",Steel Rain
+https://www.googleapis.com/drive/v3/files/1wg6XdieDrddpbDwb6WExFNTF15nYqlpl?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K2EFOnSxDaLHqBB9UpfznaIkWh.jpg" group-title="ATUALIZAÇÕES DO DIA",Aniquilação
+http://player2.aovivohd.site/Filme-Dublado/13-03/ANIQUILACAODUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek2oijLRkvQUHaG8BVjzbdx8RHG.jpg" group-title="ATUALIZAÇÕES DO DIA",A Vilã
+https://www.googleapis.com/drive/v3/files/1vcT4mhgXDoWeyT1uHFtcydSHXUhIEtzy?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="http://www.thepiratefilmeshd.com/wp-content/uploads/2018/03/uma-floresta-muito-louca-2018-torrent-bluray-720p-e-1080p-dublado-dual-audio-download.jpg" group-title="ATUALIZAÇÕES DO DIA",Uma Floresta Muito Louca
+https://www.googleapis.com/drive/v3/files/1O15TL-kZtMMW3Q4ynfRmfkSw70rQbL9S?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLNdo7Y.png" group-title="ATUALIZAÇÕES DO DIA",A Origem do Dragão
+https://www.googleapis.com/drive/v3/files/1_EJ2qjPtvCieiHReXlYo0wp4EhCFt0DZ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MJlCuB.png" group-title="ATUALIZAÇÕES DO DIA",O Estrangeiro
+https://www.googleapis.com/drive/v3/files/1SdTZ_X9CsCDGNG3CVGQbu0m1KyodTIki?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0heja0x.png" group-title="ATUALIZAÇÕES DO DIA",Beyond Skyline
+https://www.googleapis.com/drive/v3/files/1FM0p65u2cp9r2IwPqlgxn7FGxk5laAws?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-idoduaHOxSU/WdwxnkO6SgI/AAAAAAACuXg/FpvNh446mTcYMJQuw1lV-G91MZlcMVcQQCLcBGAs/s1600/DLvF7e3X4AIiZTM.jpg" group-title="ATUALIZAÇÕES DO DIA" ,STAR WARS - OS ÚLTIMOS JEDI - DUB - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-idoduaHOxSU/WdwxnkO6SgI/AAAAAAACuXg/FpvNh446mTcYMJQuw1lV-G91MZlcMVcQQCLcBGAs/s1600/DLvF7e3X4AIiZTM.jpg" group-title="ATUALIZAÇÕES DO DIA" ,STAR WARS - OS ÚLTIMOS JEDI - LEG - 2017
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.
